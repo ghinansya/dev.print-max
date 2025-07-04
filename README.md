@@ -5,7 +5,7 @@
 # PrintMax Web App
 
  Created By : Ghina Nur Agsya
-	Live View  : <a target="_blank" href="https://dev.print-max.site/">PrintMax [Live Demo]</a>
+ <br>Live View     : <a target="_blank" href="https://dev.print-max.site/">PrintMax [Live Demo]</a>
 
 ## Overview 
  #### PHP Framework : <a href="https://codeigniter.com/userguide3/index.html">CodeIgniter 3</a>
